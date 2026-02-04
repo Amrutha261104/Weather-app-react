@@ -1,4 +1,4 @@
-# 🌦️ Weather App (React + Vite)
+ 🌦️ Weather App (React + Vite)
 
 A modern and responsive Weather Application built using **React** and **Vite**.  
 The app allows users to search for any city and view real-time weather details using a public weather API.
@@ -20,8 +20,7 @@ The app allows users to search for any city and view real-time weather details u
 - Clean and responsive UI
 - Fast performance using Vite
 
-## 📸 Screenshots
-*(You can add screenshots here later)*
+
 
 ## 📂 Project Setup
 
